@@ -1,7 +1,7 @@
 # web-visualization-challenge
 Using bootstrap, css, html and python
 
-files:
+## Files and resources:
 
 - index.html: 
 - data.html:
