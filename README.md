@@ -1,5 +1,5 @@
 # web-visualization-challenge
-Using bootstrap, css, html and python
+Creating a dynamic responsive site using bootstrap, css, html and python
 
 ## html pages:
 
