@@ -1,13 +1,18 @@
 # web-visualization-challenge
 Using bootstrap, css, html and python
 
-## Files and resources:
+## html pages:
 
-- index.html: 
-- data.html:
-- comparisons.html:
-- temp.html:
-- humidity.html:
-- cloudiness.html:
-- wind_speed.html:
-- 
+- index.html: Landing page
+- Data.html: Raw Data output
+- comparisons.html: Comparison page of all four figures
+- temp.html: Temperature vs. Latitude
+- humidity.html: Humidity vs. Latitude
+- cloudiness.html: Cloudiness vs. Latitude
+- wind_speed.html: Wind Speed vs. Latitude
+
+## resources
+
+- style.css: CSS stylesheet
+- csv_to_html.ipynb: jupyter notebook file used to convert .csv to .html
+- /Resources: contains image files used as well as the raw data in .csv format
