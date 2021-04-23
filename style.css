@@ -13,7 +13,13 @@ body {
     background: #d4d4d4;
   }
 
-  
+  img { 
+    border: 3px solid white; 
+  } 
+  img:hover { 
+    border: 3px solid blue; 
+  } 
+
   header {
     background: #333;
   }
