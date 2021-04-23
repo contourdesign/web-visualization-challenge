@@ -12,6 +12,7 @@ body {
     color: #333;
     background: #d4d4d4;
   }
+
   
   header {
     background: #333;
@@ -34,7 +35,12 @@ body {
   }
   
   /* Selecting elements by ID */
-  
+  /* Getting rid of the default link styles here */
+.navbar li a {
+  color: #000;
+  text-decoration: none;
+}
+
 
   .footer
 {
