@@ -1,6 +1,8 @@
 # web-visualization-challenge
 Creating a dynamic responsive site using bootstrap, css, html and python
 
+https://contourdesign.github.io/web-visualization-challenge/index.html
+
 ## html pages:
 
 - index.html: Landing page
