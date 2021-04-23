@@ -16,5 +16,5 @@ https://contourdesign.github.io/web-visualization-challenge/index.html
 ## resources
 
 - style.css: CSS stylesheet
-- csv_to_html.ipynb: jupyter notebook file used to convert .csv to .html
-- /Resources: contains image files used as well as the raw data in .csv format
+- csv_to_html.ipynb: Jupyter notebook file used to convert .csv to .html
+- /Resources: Contains image files used as well as the raw data in .csv format
